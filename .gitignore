@@ -1,2 +1,4 @@
-/springframeworktest/springframeworktest.iml
 /.idea
+
+/springframeworktest/target/
+/springframeworktest/springframeworktest.iml
